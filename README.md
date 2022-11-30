@@ -12,6 +12,10 @@
   <br>
   <br>
  <br>
+   <br>
+  <br>
+  <br>
+ <br>
  <a href="https://github.com/JoaoDaviRibeiro">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoDaviRibeiro&show_icons=true&theme=darkclude_all_commits=true&count_private=true"/>
     <br>
