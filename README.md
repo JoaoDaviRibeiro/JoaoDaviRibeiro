@@ -6,7 +6,7 @@
     <br>
     <br>
  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDaviRibeiro&layout=compact&langs_count=7&theme=dark"/>
-    <img align="center" alt="Jojo" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/964892160124157966/1047305949653770260/download20221102210130.png">
+   
 </div>
 
 <!--
