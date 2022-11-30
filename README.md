@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hope you're having a great day so far! 🌞
 
 <div align="center">
   <a href="https://github.com/JoaoDaviRibeiro">
