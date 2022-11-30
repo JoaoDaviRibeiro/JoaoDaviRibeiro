@@ -6,12 +6,16 @@
     <br>
 <img align="right" alt="Jojo" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/964892160124157966/1047330214352531466/1806920_aky45mjA.png?width=452&height=452"> 
  <img align="left" alt="Jojo" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/964892160124157966/1047330195377504336/1806920_JN0LCbey.png?width=452&height=452"> 
-  
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+ <br>
  <a href="https://github.com/JoaoDaviRibeiro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoDaviRibeiro&show_icons=true&theme=darkclude_all_commits=true&count_private=true"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoDaviRibeiro&show_icons=true&theme=darkclude_all_commits=true&count_private=true"/>
     <br>
     <br>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDaviRibeiro&layout=compact&langs_count=7&theme=dark"/>
     <br>
     <br>
     <br>
