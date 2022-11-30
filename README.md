@@ -14,6 +14,7 @@
     <br>
     <br>
     <br>
+   <div style="display: inline_block"><br>
 <img align="right" alt="Jojo" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/964892160124157966/1047305949653770260/download20221102210130.png"> 
 <img align="left" alt="Jojo" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/964892160124157966/1047312545469435984/download20221102210021.png?width=452&height=452">
 </div>
