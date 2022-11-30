@@ -1,10 +1,10 @@
 ### Hope you're having a great day so far! 🌞
+    <br>
+    <br>
+    <br>
 
 <div align="center">
   <a href="https://github.com/JoaoDaviRibeiro">
-    <br>
-    <br>
-
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoDaviRibeiro&show_icons=true&theme=darkclude_all_commits=true&count_private=true"/>
     <br>
     <br>
