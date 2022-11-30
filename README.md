@@ -2,7 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/JoaoDaviRibeiro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoDaviRibeiro&show_icons=true&theme=darkclude_all_commits=true&count_private=true"/>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoDaviRibeiro&show_icons=true&theme=darkclude_all_commits=true&count_private=true"/>
+    <br>
+    <br>
     <img align="right" alt="Jojo" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/964892160124157966/1047305949653770260/download20221102210130.png">
 </div>
 
